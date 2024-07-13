@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "analytics.strava.com",
+      ],
+      "domain_suffix": [
+        "4d4y.com",
+        "ccbft.com",
+      ]
+    }
+  ]
+}
